@@ -2,7 +2,7 @@
 HTML HW
 **First HTML Homework is to create a simple HTML site advertising your GitHub and your HTML skills**
 HTML Lab:
--Title
+- Title
 -Heading
 -Paragraph under the heading linking to your github profile
 -Second heading
