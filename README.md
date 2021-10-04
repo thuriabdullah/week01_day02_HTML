@@ -1,5 +1,12 @@
 # week01_day02_HTML
-## **First HTML Homework is to create a simple HTML site advertising your GitHub and your HTML skills**
+
+> For this Lab, fork this github repo to your account, add the required files, and push the solution to your repo.
+
+## **First HTML Homework: Create a web page that produces the image First_Homework_Picture.png**
+
+<br>
+
+## **Second HTML Homework is to create a simple HTML site advertising your GitHub and your HTML skills**
 HTML Lab requirements:
 - Title
 - Heading
