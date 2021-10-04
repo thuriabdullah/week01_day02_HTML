@@ -3,7 +3,7 @@
 HTML Lab requirements:
 - Title
 - Heading
-- Paragraph under the heading linking to your github profile
+- Paragraph under the heading linking to your github profile that opens in a new window
 - Second heading
 - Second paragraph with bold and italics in it
 - Using line breaks
